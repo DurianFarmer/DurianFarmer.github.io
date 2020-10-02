@@ -39,13 +39,11 @@
     </div>
     {% endfor %}
   </div>
-  <hr/>
 </div>
 
 <h2>Recent Posts</h2>
 <ul class="posts-list">
-    {% assign category = page.category | default: page.title %}
-    {% for post in site.categories[category] %}
+    {% for post in site %}
       <li>
         <h3>
           <a href="{{ post.url | relative_url }}">
