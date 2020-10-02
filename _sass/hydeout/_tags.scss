@@ -3,13 +3,16 @@
   opacity: 0.75;
   white-space: nowrap;
   color: $navy;
+  font-size: 2em;
+  font-weight: bold;
 }
 
 .tags-list a .tag-count {
   background: $navy;
   border-radius: 1000px;
   color: rgba(255, 255, 255, 0.8);
-  font-size: 0.75em;
+  font-size: 1.5em;
+  font-weight: bold;
   margin-left: 0.25em;
   padding-left: 0.6em;
   padding-right: 0.6em;

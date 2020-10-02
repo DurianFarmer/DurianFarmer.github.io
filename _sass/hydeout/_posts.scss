@@ -42,6 +42,10 @@ h2.page-title {
   list-style: none;
   padding-left: 0;
 
+  a {
+    color: $navy;
+  }
+
   h3 {
     margin-top: 0;
   }
@@ -53,7 +57,7 @@ h2.page-title {
   }
 
   li a:hover {
-    color: $link-color;
+    color: $navy;
     text-decoration: none;
   }
 
