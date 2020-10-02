@@ -2,18 +2,20 @@
   margin-right: 0.5em;
   opacity: 0.75;
   white-space: nowrap;
-  color: $navy;
-  font-size: 2em;
+  background: $navy;
+  border-radius: 0px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.5em;
   font-weight: bold;
+  padding-left: 0.6em;
 }
 
 .tags-list a .tag-count {
   background: $navy;
   border-radius: 1000px;
   color: rgba(255, 255, 255, 0.8);
-  font-size: 1.5em;
+  font-size: 1em;
   font-weight: bold;
-  margin-left: 0.25em;
   padding-left: 0.6em;
   padding-right: 0.6em;
 }
