@@ -39,11 +39,11 @@ h2.page-title {
   &:hover {
     opacity: 1;
     text-decoration: none;
-  }
+  }  
+}
 
-  .icon svg {
-    color: $navy;
-  }
+.icon svg {
+  color: $navy;
 }
 
 .posts-list {
