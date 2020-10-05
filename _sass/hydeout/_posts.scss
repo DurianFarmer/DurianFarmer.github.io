@@ -29,12 +29,17 @@ h2.page-title {
   margin-right: 0.5rem;
   opacity: 0.75;
   white-space: nowrap;
+  color: $navy;
 
   .tag-name { text-transform: capitalize; }
 
   &:hover {
     opacity: 1;
     text-decoration: none;
+  }
+
+  svg {
+    color: $navy;
   }
 }
 
