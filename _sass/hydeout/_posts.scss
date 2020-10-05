@@ -31,14 +31,17 @@ h2.page-title {
   white-space: nowrap;
   color: $navy;
 
-  .tag-name { text-transform: capitalize; }
+  .tag-name { 
+    color: $navy;
+    text-transform: capitalize; 
+  }
 
   &:hover {
     opacity: 1;
     text-decoration: none;
   }
 
-  svg {
+  .icon svg {
     color: $navy;
   }
 }
