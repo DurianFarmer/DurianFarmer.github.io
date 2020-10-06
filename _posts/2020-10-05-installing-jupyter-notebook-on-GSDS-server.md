@@ -11,15 +11,16 @@ tags:
 
 ### Prerequesits
 - A GSDS server account
-- GSDS server: 147.47.200.22    port: 22554
+- GSDS **server_IP**: 147.47.200.22 **port**: 22554
 - FileZilla (to send files to GSDS server)
 - Install Putty on Windows 10
 
 <!--more-->
 
 ### Installing Jupyter Notebook on GSDS Server
-- Download recent Linux ver. Anaconda installer - **[link](https://docs.anaconda.com/anaconda/install/linux/)**
-  - *At Oct 6, 2020, the most recent ver. is **Anaconda3-2020.07-Linux-x86_64.sh** *
+- Download recent Linux ver. Anaconda installer - **[link](https://docs.anaconda.com/anaconda/install/linux/)**  
+  *At Oct 6, 2020, the most recent Anaconda installer ver. is* 
+  ***Anaconda3-2020.07-Linux-x86_64.sh***
 - Use Filezilla and send Anaconda installer to GSDS server
 - Login GSDS server using Putty and install Anaconda
 
@@ -29,13 +30,14 @@ tags:
 
 ### Initial Setting
 - Notations:
-  - *ID*: manapool
-  - *server_IP*: 147.47.200.22
-  - *local_port*: 8001
-  - *server_port*: 8889
-  - *gpu_server*: gpu02
-  - *gpu_port*: 8889
+  - ***ID***: manapool
+  - ***server_IP***: 147.47.200.22
+  - ***local_port***: 8001
+  - ***server_port***: 8889
+  - ***gpu_server***: gpu02
+  - ***gpu_port***: 8889
 - Open a terminal from Windows 10 and type:
+
 ```
 > ssh -fN {ID}@{server_IP} -L {server_port}:localhost:{local_port}
 ```
@@ -61,11 +63,11 @@ tags:
 - Open PUTTY and input the *server_IP* as the Host Name
 - Set Port as **22554**
 
-![img1](../assets/img/201006_img1.jpg)
+![img1](/assets/img/201006_img1.jpg)
 
 - Go to SSH on the bottom of the left pane to expand the menu and then click on Tunnels
 - Input *local_port* in Source Port and *server_port* in Destination as follows:
-![img2](../assets/img/201006_img2.jpg)
+![img2](/assets/img/201006_img2.jpg)
 
 - Click Open and login GSDS server
 - Open Jupyter Notebook
@@ -74,6 +76,7 @@ tags:
 $ ssh gpu02
 $ jupyter notebook --no-browser --port=8889
 ```
-- type in a browser `localhost:{local_port}` and use Jupyter Notebook
-- save session in Putty (through Change Settings) for convenient access next time
+
+- type in a browser `localhost:{local_port}` to use Jupyter Notebook
+- save Putty session (through Change Settings) for convenient access next time
 
