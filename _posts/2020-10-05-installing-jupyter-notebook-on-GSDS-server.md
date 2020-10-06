@@ -19,8 +19,8 @@ tags:
 
 ### Installing Jupyter Notebook on GSDS Server
 - Download recent Linux ver. Anaconda installer - **[link](https://docs.anaconda.com/anaconda/install/linux/)**  
-  *At Oct 6, 2020, the most recent Anaconda installer ver. is* 
-  ***Anaconda3-2020.07-Linux-x86_64.sh***
+*At Oct 6, 2020, the most recent Anaconda installer ver. is*<br> 
+*Anaconda3-2020.07-Linux-x86_64.sh*
 - Use Filezilla and send Anaconda installer to GSDS server
 - Login GSDS server using Putty and install Anaconda
 
@@ -60,13 +60,14 @@ tags:
 - type in a browser `localhost:{local_port}` and check if you can access Jupyter Notebook
 
 ### Using Putty to Access Jupyter Notebook
-- Open PUTTY and input the *server_IP* as the Host Name
+- Open PUTTY and input the ***server_IP*** as the Host Name
 - Set Port as **22554**
 
 ![img1](/assets/img/201006_img1.jpg)
 
 - Go to SSH on the bottom of the left pane to expand the menu and then click on Tunnels
-- Input *local_port* in Source Port and *server_port* in Destination as follows:
+- Input ***local_port*** in Source Port and ***server_port**** in Destination as follows:
+
 ![img2](/assets/img/201006_img2.jpg)
 
 - Click Open and login GSDS server
