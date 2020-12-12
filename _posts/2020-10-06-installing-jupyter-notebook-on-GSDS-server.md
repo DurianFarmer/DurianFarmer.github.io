@@ -32,33 +32,23 @@ $ bash ~/{the directory of Anaconda installer}/Anaconda3-2020.02-Linux-x86_64.sh
 - Notations:
   - ***ID***: manapool
   - ***server_IP***: 147.47.200.22
-  - ***local_port***: 8001
-  - ***server_port***: 8889
-  - ***gpu_server***: gpu02
-  - ***gpu_port***: 8889
-- Open a terminal from Windows 10 and type:
+  - ***local_port***: 8001 or 8004
+  - ***server_port***: 8889 or 8899
+  - ***gpu_server***: gpu02 or gpu04
+  - ***gpu_port***: 8889 or 8899
+- We are going to use two terminals.
+- Open the first terminal from Windows 10 and type:
 
 ```
 > ssh -fN {ID}@{server_IP} -L {server_port}:localhost:{local_port}
 ```
 
-- Open a new terminal from Windows 10 and type:
+- Open the second terminal from Windows 10 and type:
 
 ```
 > ssh {ID}@{server_IP}
 > ssh -f {gpu_server} -L {gpu_port}:localhost:{server_port} -N -K
 ```
-
-- Open a third terminal and type:
-
-```
->ssh -X {ID}@{server_IP}
->ssh -KX {gpu_server}
->jupyter notebook --no-browser --port=8889
-```
-
-- Type in a browser `localhost:{local_port}` and check if you can access Jupyter Notebook
-- If you can access Jupyter Notebook, initial setting is done
 
 ### Using Putty to Access Jupyter Notebook
 - Open PUTTY and input the ***server_IP*** as the Host Name
@@ -72,14 +62,16 @@ $ bash ~/{the directory of Anaconda installer}/Anaconda3-2020.02-Linux-x86_64.sh
 ![img2](/assets/img/201006_img2.jpg)
 
 - Save Putty session (through Change Settings)
-- Now you can access Jupyter Notebook using the Putty saved session and the following cli
+- Login to the GSDS server using the saved session.
+- Now you can access Jupyter Notebook through the following cli:
 
 ```
-# login GSDS server
+# login GSDS server with saved Putty session
 $ ssh gpu02
-$ jupyter notebook --no-browser --port=8889
+$ jupyter notebook --port=8889 (or8899)
 ```
 
-- Type in a browser `localhost:{local_port}` to use Jupyter Notebook
+- Server will notice you that Jupyter Notebook is running.
+- Type in your browser `localhost:{local_port}` to use Jupyter Notebook
 
 

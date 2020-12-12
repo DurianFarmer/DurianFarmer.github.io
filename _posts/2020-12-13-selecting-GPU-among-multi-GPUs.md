@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selecting GPU among Multi GPUs
+title: Selecting a GPU among Multi GPUs
 categories:
   - GPU
 tags:
