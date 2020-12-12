@@ -32,18 +32,18 @@ $ bash ~/{the directory of Anaconda installer}/Anaconda3-2020.02-Linux-x86_64.sh
 - Notations:
   - ***ID***: manapool
   - ***server_IP***: 147.47.200.22
-  - ***local_port***: 8001 or 8004
-  - ***server_port***: 8889 or 8899
-  - ***gpu_server***: gpu02 or gpu04
-  - ***gpu_port***: 8889 or 8899
+  - ***local_port***: 8001 (or 8004)
+  - ***server_port***: 8889 (or 8899)
+  - ***gpu_server***: gpu02 (or gpu04)
+  - ***gpu_port***: 8889 (or 8899)
 - We are going to use two terminals.
-- Open the first terminal from Windows 10 and type:
+- Open a first terminal from Windows 10 and type:
 
 ```
 > ssh -fN {ID}@{server_IP} -L {server_port}:localhost:{local_port}
 ```
 
-- Open the second terminal from Windows 10 and type:
+- Open a second terminal from Windows 10 and type:
 
 ```
 > ssh {ID}@{server_IP}
@@ -67,8 +67,8 @@ $ bash ~/{the directory of Anaconda installer}/Anaconda3-2020.02-Linux-x86_64.sh
 
 ```
 # login GSDS server with saved Putty session
-$ ssh gpu02
-$ jupyter notebook --port=8889 (or8899)
+$ ssh gpu02 (or gpu04)
+$ jupyter notebook --port=8889 (or 8899)
 ```
 
 - Server will notice you that Jupyter Notebook is running.
