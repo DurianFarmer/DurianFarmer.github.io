@@ -11,12 +11,12 @@ tags:
 
 ### Summary
 - There is a korean_romanizer module.  [link](https://github.com/osori/korean-romanizer)
-- However, the korean_romanizer module's `Romanizer()` fails to romanize a morpheme(형태소) that starts with a Jongseong(종성) 
+- However, the korean_romanizer module's `Romanizer()` fails to Romanize a morpheme(형태소) that starts with a Jongseong(종성) 
 - ex) ㅂ니다, ㄴ다, ㄹ것이다 등
-- The below code allows you to Romanize such morphemes.
+- The below code Romanizes such morphemes.
 <!--more-->
 - `romanize_word()` receives a morpheme in Korean and returns its equivalent Roman spelling
-- `romanize_()` receives a list of morphemes in Korean and returns a list of equivalent Roman spellings
+- `romanize()` receives a list of morphemes in Korean and returns a list of equivalent Roman spellings
 
 ```python
 # !pip install korean_romanizer
