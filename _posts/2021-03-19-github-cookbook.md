@@ -10,7 +10,7 @@ tags:
 
 <!--more-->
 
-### Github → local
+### github → local
 
  | Code | Memo |
  | --- | --- |
