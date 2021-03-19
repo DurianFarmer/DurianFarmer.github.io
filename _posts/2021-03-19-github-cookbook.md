@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selecting a GPU among Multi GPUs
+title: Github Cookbook
 categories:
   - github
 tags:
