@@ -8,7 +8,7 @@ tags:
   - cookbook
 ---
 
- ### github -> local
+ ### github → local
 
  | Code | Memo |
  | --- | --- |
@@ -16,7 +16,7 @@ tags:
  | `git pull origin master` | github -> local로 프로젝트를 가져오기 |
  | `git clone https://github.com/DurianFarmer/stocks_kr.git` | github에 이미 올라와 있는 project를 local로 그대로 가져오기 <br> 주로 다른 사람이 만든 프로젝트를 가져올 때 사용 |
 
-### local -> github
+### local → github
 
 | Code | Memo |
 | --- | --- |
