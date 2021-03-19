@@ -8,7 +8,9 @@ tags:
   - cookbook
 ---
 
- ### github → local
+<!--more-->
+
+### github → local
 
  | Code | Memo |
  | --- | --- |
