@@ -3,6 +3,7 @@ layout: post
 title: Github Cookbook
 categories:
   - github
+  - cookbook
 tags:
   - github
   - cookbook
