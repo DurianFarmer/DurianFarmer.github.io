@@ -1,7 +1,5 @@
 ---
 layout: category
-title: Cook Library
+title: Cookbooks
 category: cookbook
 ---
-
-### List of Cook Books
