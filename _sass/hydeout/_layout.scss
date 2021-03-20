@@ -108,7 +108,7 @@ body {
   // Center sidebar content
   text-align: center;
 
-  // form style
+  // form style for tipque-search
   form {
     align-self: center;
   }
@@ -159,9 +159,9 @@ body {
     text-align: left;
     width: $sidebar-width;
 
-    // form style
+    // form style for tipque-search
     form {
-      align-self: left;
+      align-self: baseline;
     } 
 
     > *:last-child {
