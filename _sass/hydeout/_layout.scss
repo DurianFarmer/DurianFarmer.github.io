@@ -108,6 +108,11 @@ body {
   // Center sidebar content
   text-align: center;
 
+  // form style
+  form {
+    align-self: center;
+  }
+
   // Bigger title
   .site-title {
     font-size: 3.25rem;
@@ -153,6 +158,11 @@ body {
   .home #sidebar {
     text-align: left;
     width: $sidebar-width;
+
+    // form style
+    form {
+      align-self: center;
+    } 
 
     > *:last-child {
       margin-bottom: 0;
