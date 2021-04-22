@@ -74,4 +74,8 @@ $ jupyter notebook --port=8889 (or 8899)
 - Server will notice you that Jupyter Notebook is running.
 - Type in your browser `localhost:{local_port}` to use Jupyter Notebook
 
+### cf. How to kill a specific port
+[LINK](https://brocess.tistory.com/82)
+
+
 
