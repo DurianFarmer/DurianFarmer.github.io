@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            ʕ•ﻌ•ʔฅ
+title:            ฅ( ̳͒•ಲ• ̳͒)♪
 tagline:          ""
-description:      "DurianFarmer's Data Science Cookbook"
+description:      "DurianFarmer's Data Science Farm"
 url:              https://durianfarmer.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
