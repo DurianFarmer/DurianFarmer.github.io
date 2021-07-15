@@ -8,14 +8,14 @@ tags:
   - data integration
 ---
 
-# Intro
+## Intro
 This paper presents an efficient algorithm to integrate two graphs collected from different sources using crowdsourcing systems.
 
 <!--more-->
 
 ![fig2](/assets/fig/2021-07-15-integration-of-graphs/fig2.jpg)
 
-# Notions
+## Notions
 
 ### Graph Integration
 - a type of entity resolution that merges at least two graphs obtained from different sources that concern the same real-world entities
