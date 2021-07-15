@@ -15,8 +15,8 @@ tags:
 - [관련 법령 (데이터 범례 상세 설명)](https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000157569)
 
 **셀프 링크**
-- **노드** [https://durianfarmer.github.io/traffic_data/MOCT_NODE.csv](https://durianfarmer.github.io/traffic_data/MOCT_NODE.csv)
-- **노드 좌표** [https://durianfarmer.github.io/traffic_data/MOCT_NODE_LATLNG.csv](https://durianfarmer.github.io/traffic_data/MOCT_NODE_LATLNG.csv)
-- **링크** [https://durianfarmer.github.io/traffic_data/MOCT_LINK.csv](https://durianfarmer.github.io/traffic_data/MOCT_LINK.csv)
+- **노드** [https://durianfarmer.github.io/traffic_data/MOCT_NODE.csv](https://durianfarmer.github.io/assets/traffic_data/MOCT_NODE.csv)
+- **노드 좌표** [https://durianfarmer.github.io/traffic_data/MOCT_NODE_LATLNG.csv](https://durianfarmer.github.io/assets/traffic_data/MOCT_NODE_LATLNG.csv)
+- **링크** [https://durianfarmer.github.io/traffic_data/MOCT_LINK.csv](https://durianfarmer.github.io/assets/traffic_data/MOCT_LINK.csv)
 
 
