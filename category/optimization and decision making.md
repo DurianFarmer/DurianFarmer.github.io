@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Optimization & Decision Making
+title: Opt. & Dec. Sci.
 categories:
   - optimization
   - decision making
