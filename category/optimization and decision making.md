@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Opt. & Dec.Mak.
+title: Optimization & Decision Making
 categories:
   - optimization
   - decision making
