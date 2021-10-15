@@ -1,0 +1,17 @@
+{
+    "nodes": [
+      {"id": "HS Kim", "group": 3},
+      {"id": "SR Kim", "group": 3},
+      {"id": "JW Jeon", "group": 3},
+      {"id": "JH Kwak", "group": 3},
+      {"id": "KW Chai", "group": 3},      
+      {"id": "YS Roh", "group": 3}
+    ],
+    "links": [      
+      {"source": "HS Kim", "target": "SR Kim", "value": 1},
+      {"source": "HS Kim", "target": "JW Jeon", "value": 1},
+      {"source": "HS Kim", "target": "JH Kwak", "value": 1},
+      {"source": "HS Kim", "target": "KW Chai", "value": 1},
+      {"source": "HS Kim", "target": "YS Roh", "value": 1}      
+    ]
+  }

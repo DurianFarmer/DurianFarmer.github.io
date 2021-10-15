@@ -1,0 +1,17 @@
+{
+    "nodes": [      
+      {"id": "JW Jeon", "group": 2},      
+      {"id": "SR Kim", "group": 2},
+      {"id": "SH Park", "group": 2},
+      {"id": "JS Park", "group": 2},
+      {"id": "KW Chai", "group": 2},
+      {"id": "HS Kim", "group": 2}
+    ],
+    "links": [      
+      {"source": "JW Jeon", "target": "SR Kim", "value": 1},
+      {"source": "JW Jeon", "target": "SH Park", "value": 1},
+      {"source": "JW Jeon", "target": "JS Park", "value": 1},
+      {"source": "JW Jeon", "target": "KW Chai", "value": 1},
+      {"source": "JW Jeon", "target": "HS Kim", "value": 1}     
+    ]
+  }

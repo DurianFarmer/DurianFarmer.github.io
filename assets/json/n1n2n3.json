@@ -1,0 +1,27 @@
+{
+    "nodes": [
+      {"id": "KW Chai", "group": 7},
+      {"id": "HS Kim", "group": 7},
+      {"id": "C Cho", "group": 1},
+      {"id": "YS Roh", "group": 6},
+      {"id": "JW Jeon", "group": 7},
+      {"id": "JS Park", "group": 4},
+      {"id": "SR Kim", "group": 5},
+      {"id": "SH Park", "group": 2},
+      {"id": "JH Kwak", "group": 3}
+    ],
+    "links": [
+      {"source": "KW Chai", "target": "HS Kim", "value": 2},
+      {"source": "KW Chai", "target": "C Cho", "value": 1},
+      {"source": "KW Chai", "target": "YS Roh", "value": 1},
+      {"source": "KW Chai", "target": "JW Jeon", "value": 2},
+      {"source": "KW Chai", "target": "JS Park", "value": 1},
+      {"source": "JW Jeon", "target": "SR Kim", "value": 1},
+      {"source": "JW Jeon", "target": "SH Park", "value": 1},
+      {"source": "JW Jeon", "target": "JS Park", "value": 1},
+      {"source": "JW Jeon", "target": "HS Kim", "value": 2},
+      {"source": "HS Kim", "target": "SR Kim", "value": 1},
+      {"source": "HS Kim", "target": "JH Kwak", "value": 1},
+      {"source": "HS Kim", "target": "YS Roh", "value": 1}      
+    ]
+  }
