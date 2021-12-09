@@ -9,7 +9,8 @@ tags:
   - traffic
 ---
 ### 국토부 표준노드링크 (2020-12-28 기준)
-<!--more-->
+
+
 **데이터 설명** <br>
 - [iTS 국가교통정보센터 (데이터 출처)](https://its.go.kr/nodelink/intro)
 - [관련 법령 (데이터 범례 상세 설명)](https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000157569)
