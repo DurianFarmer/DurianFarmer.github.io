@@ -22,3 +22,5 @@ Kyuwook Chai is a Graduate Student at the [Graduate School of Data Science](http
 Prior to joining SNU GSDS, he served as a patent attorney at [You Me Patent & Law Firm](http://en.youme.com/), [FirstLaw P.C](http://www.firstlaw.co.kr/eng/). and [Haean Patent & Law Firm](https://www.haeanip.com/).  He is a member of the Korean Patent Attorneys Association (KPPA).  He was admitted to the Korean Patent Bar in 2013. 
 He completed his undergraduate degree in 2012 at [Seoul National University](https://snu.ac.kr/) double majoring Physics and Statistics.
 His emails are [kwchai@snu.ac.kr](mailto:kwchai@snu.ac.kr) & [kyuwookchai@gmail.com](mailtio:kyuwookchai@gmail.com).
+
+# Research
