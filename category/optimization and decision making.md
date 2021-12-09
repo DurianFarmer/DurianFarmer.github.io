@@ -1,6 +1,6 @@
 ---
 layout: category
-title: RL
+title: Decision Making
 categories:
   - optimization
   - decision making
