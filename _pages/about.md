@@ -2,7 +2,7 @@
 layout: index
 title: Home
 sidebar_link: False
-permalink: /index/
+permalink: /about/
 ---
 
 <p class="message">

@@ -7,7 +7,7 @@ title:            ฅʕ•ﻌ•ʔ
 tagline:          ""
 description:      "Welcome" # "DurianFarmer's Data Science Farm"
 url:              https://durianfarmer.github.io
-baseurl:          ''
+baseurl:          '/about'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
