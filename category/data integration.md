@@ -1,5 +1,9 @@
 ---
 layout: category
-title: Data Integration
-category: data integration
+title: Data Unification
+categories: 
+  - data unification
+  - data integration
+  - conflict resolution
+  - data fusion
 ---
