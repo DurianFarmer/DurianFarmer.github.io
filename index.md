@@ -14,7 +14,7 @@ layout: index
  </tr>
 </table> -->
 
-<div>
+<div style="display:block">
 <img src="assets/fig/KyuwookChai_Photo.jpg" alt="drawing" width="200"/>
 </div>
 

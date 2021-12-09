@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            ฅʕ•ﻌ•ʔ
 tagline:          ""
-description:      "Welcome" # "DurianFarmer's Data Science Farm"
+description:      "DurianFarmer's Data Science Farm"
 url:              https://durianfarmer.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
