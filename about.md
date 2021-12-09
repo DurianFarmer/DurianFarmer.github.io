@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: Home
 sidebar_link: False
 ---
