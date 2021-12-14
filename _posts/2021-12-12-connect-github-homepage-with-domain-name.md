@@ -12,6 +12,8 @@ tags:
 
 - **Sub 도메인 (sub domain):** www.kyuwookchai.com, m.kyuwookcahi.com 등
 
+___
+
 ## Github homepage에 내 도메인 (GoDaddy에서 구입) 연결하기
 1. 링크의 **"Configuring a subdomain"** 프로세스를 수행: [(링크)](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 

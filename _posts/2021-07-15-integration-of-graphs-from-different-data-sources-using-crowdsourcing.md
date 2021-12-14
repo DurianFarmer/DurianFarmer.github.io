@@ -15,7 +15,7 @@ This paper presents an efficient algorithm to integrate two graphs collected fro
 
 <!--more-->
 
-![fig2](/assets/fig/2021-07-15-integration-of-graphs/fig2.jpg)
+![fig2](/assets/fig/integration-of-graphs/fig2.jpg)
 
 ## Problems to Think about
 - Schema matching for graphs
@@ -48,5 +48,5 @@ This paper presents an efficient algorithm to integrate two graphs collected fro
 - compute the most precise matches between two graphs by requesting annotators within a limited budget in a crowdsourcing system such as Amazon Mechanical Turk
 - Assuming that we pay a fixed reward to annotators for each query, we must not only select the most informative query nodes to ask to annotators, but also match two graphs as accurately as possible with the available labels obtained from the crowd.
 
-![fig3](/assets/fig/2021-07-15-integration-of-graphs/fig3.jpg)
-![fig3-2](/assets/fig/2021-07-15-integration-of-graphs/fig3-2.jpg)
+![fig3](/assets/fig/integration-of-graphs/fig3.jpg)
+![fig3-2](/assets/fig/integration-of-graphs/fig3-2.jpg)

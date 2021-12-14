@@ -54,12 +54,12 @@ $ bash ~/{the directory of Anaconda installer}/Anaconda3-2020.02-Linux-x86_64.sh
 - Open PUTTY and input the ***server_IP*** as the Host Name
 - Set Port as **22554**
 
-![fig1](/assets/fig/2020-10-06-installing-jupyter-notebook/fig1.jpg)
+![fig1](/assets/fig/installing-jupyter-notebook/fig1.jpg)
 
 - Go to SSH on the bottom of the left pane to expand the menu and then click on Tunnels
 - Input ***local_port*** in Source Port and ***server_port*** in Destination as follows:
 
-![fig2](/assets/fig/2020-10-06-installing-jupyter-notebook/fig2.jpg)
+![fig2](/assets/fig/installing-jupyter-notebook/fig2.jpg)
 
 - Save Putty session (through Change Settings)
 - Login to the GSDS server using the saved session.
