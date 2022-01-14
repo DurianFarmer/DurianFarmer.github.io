@@ -7,6 +7,8 @@ tags:
   - github homepage  
 ---
 
+___
+
 ## 도메인 용어 설명
 - **최상위 도메인 (apex domain):** kyuwookchai.com (즉, www. 등이 붙지 않은 도메인이 내 최상위 도메인임)
 
