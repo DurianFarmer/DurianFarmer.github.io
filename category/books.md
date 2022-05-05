@@ -1,5 +1,5 @@
 ---
-layout: books
+layout: category
 title: Books
 category: books
 ---
