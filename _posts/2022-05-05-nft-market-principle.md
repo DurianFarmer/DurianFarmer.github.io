@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: NFT 마켓의 원리
 categories:  
   - books
