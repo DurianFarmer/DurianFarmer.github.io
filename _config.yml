@@ -6,8 +6,7 @@ highlighter:      rouge
 title:            ฅʕ•ﻌ•ʔ
 tagline:          ""
 description:      "DurianFarmer's Data Science Farm"
-# url:              https://durianfarmer.github.io
-url:              https://www.kyuwookchai.com/
+url:              https://durianfarmer.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -17,8 +16,7 @@ baseurl:          ''
 
 author:
   name:           'Kyuwook Chai'
-  # url:            https://durianfarmer.github.io
-  url:            https://www.kyuwookchai.com/
+  url:            https://durianfarmer.github.io  
 
 paginate:         5
 # paginate_path:    '/page:num'

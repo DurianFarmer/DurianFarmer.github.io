@@ -13,6 +13,11 @@ tags:
 - 출판사: 비즈니스 랩
 
 ## Memo
+NFT의 개념 소개
 
+## 더 공부 필요한 개념들
+- DeFi
+- Depth
 
-## My Thoughts
+## NFT 활용할 아이디어
+추후 적기
