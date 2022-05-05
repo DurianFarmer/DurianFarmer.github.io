@@ -16,7 +16,7 @@ layout: index
 
 <div style="display:block">
 <img src="assets/fig/KyuwookChai_Photo.jpg" alt="drawing" width="200"/>
-</div> 
+</div>
 
 Kyuwook Chai is a Graduate Student at the [Graduate School of Data Science](https://gsds.snu.ac.kr/), Seoul National University (SNU GSDS).  His research interests are in data management, data-driven decision making, decision making algorithms, machine learning & deep learning, and technology & innovation. 
 

@@ -18,7 +18,7 @@ baseurl:          ''
 author:
   name:           'Kyuwook Chai'
   # url:            https://durianfarmer.github.io
-  url:            https://durianfarmer.github.io
+  url:            https://www.kyuwookchai.com/
 
 paginate:         5
 # paginate_path:    '/page:num'
