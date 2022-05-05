@@ -4,7 +4,7 @@ title: Bill Gates, How to Avoid a Climate Disaster
 categories:  
   - books
 tags:
-  - books  
+  - books
 ---
 
 ## Intro
