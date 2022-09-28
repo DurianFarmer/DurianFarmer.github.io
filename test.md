@@ -2,7 +2,6 @@
 layout: page
 title: Test Page
 permalink: /test/
-use_math: true
 sidebar_link: true
 sidebar_sort_order: 1
 ---
