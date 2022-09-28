@@ -1,6 +1,11 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+#220928 mathjax 설정 추가하기
+lsi: false
+excerpt_seperator: "\n\n"
+incremental: fasle
+
 
 # Setup
 title:            ฅʕ•ﻌ•ʔ

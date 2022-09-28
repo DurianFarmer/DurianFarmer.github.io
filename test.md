@@ -20,7 +20,7 @@ layout: page
 title: Test Page # sidebar 및 Page 최상단에 표시되는 이름
 permalink: /test/ # Page의 url
 use_math: true # mathjax 이용한 수식 표현 가능해짐
-sidebar_link: true # 사이드바에 제목 넣기
+sidebar_link: true # 사이드바에 표시하기(제목은 title과 동일함)
 sidebar_sort_order: 1 # 사이드바 배치 순서
 ---
  ```
