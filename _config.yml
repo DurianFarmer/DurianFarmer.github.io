@@ -2,7 +2,6 @@
 markdown:         kramdown
 highlighter:      rouge
 #220928 mathjax 설정 추가하기
-# mathjax: true
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
