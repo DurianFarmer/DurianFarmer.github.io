@@ -34,5 +34,7 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" />
 
   <!-- mathjax -->
-  {% include mathjax_support.html %}
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
 </head>
