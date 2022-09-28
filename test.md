@@ -2,7 +2,6 @@
 layout: page
 title: Test Page
 permalink: /test/
-use_math: true
 sidebar_link: true
 sidebar_sort_order: 1
 ---
@@ -21,9 +20,12 @@ $$
 layout: page
 title: Test Page # sidebar 및 Page 최상단에 표시되는 이름
 permalink: /test/ # Page의 url
-use_math: true # mathjax 이용 조건
 sidebar_link: true # 사이드바에 표시하기(제목은 title과 동일함)
 sidebar_sort_order: 1 # 사이드바 배치 순서
 ---
  ```
+
+## 수식 넣는 법
+1. `includes\mathjax_support.html`을 추가한다.
+1. ㄹㅈㄹ
 
