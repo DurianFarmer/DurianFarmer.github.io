@@ -42,3 +42,13 @@ tipue_search:
       files: [search.html, index.html, tags.html]
       categories: []
       tags: []
+
+## (220928) Collections: 날짜 없는 페이지들(not posts) 업로드 용도
+## https://cloudcannon.com/community/learn/jekyll-tutorial/introduction-to-jekyll-collections/
+## Use posts when you want to write independent articles, with a publishing date.
+## Use collections when you want to group related content, which can have its own page, but date is unimportant.
+#####
+# collections:
+#   pages:
+#     output: true
+#####
