@@ -9,7 +9,7 @@ sidebar_sort_order: 1
 ***사람은 무엇으로 사는가?***  
 
 $$ e^{i} + 1 = 0 $$
-
+<br>
  ## Static Page (not Post) 만드는 법
  * `./`에 `page이름.md`으로 페이지를 만든다.
  * front-matter를 다음과 같이 작성 *(cf. `includes\page_links.html` 참고)*
