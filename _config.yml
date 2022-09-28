@@ -3,9 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 #220928 mathjax 설정 추가하기
 lsi: false
-excerpt_seperator: "\n\n"
-incremental: fasle
-
+excerpt_separator: "\n\n"
+incremental: false
 
 # Setup
 title:            ฅʕ•ﻌ•ʔ
