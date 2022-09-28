@@ -4,7 +4,9 @@
   {% include head.html %}
 
   <!-- 220928 마크다운에 수식 쓸 수 있도록 하기 -->
-  <script type="text/x-mathjax-config"> MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+  <!-- 첫번째 script는 inline 수식을 $ 수식 $ 꼴로 표현할 수 있게 해줌. else, \\( 수식 \\) 로 써야 함-->
+  <!-- 두번째 script는 Latex 수식을 쓸 수 있게 해줌 -->
+  <script type="text/x-mathjax-config"> MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}}); </script> 
   <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">

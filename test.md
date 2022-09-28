@@ -13,7 +13,7 @@ $$ e^{i} + 1 = 0 $$
 ## Static Page (not Post) 만드는 법
 * `./`에 `page이름.md`으로 페이지를 만든다.
 * front-matter를 다음과 같이 작성 *(cf. `includes\page_links.html` 참고)*
-* 수식이 잘 써지는지 테스트: $F=ma$
+* 수식이 잘 써지는지 테스트: $ F=ma $
  
 ```
 ---
@@ -26,11 +26,10 @@ sidebar_sort_order: 1 # 사이드바 배치 순서
 ```
 
 ## 수식 넣는 법
-1. [링크](https://h-dyeon.github.io/dev/2019/12/10/jekyll-mathjax/) 참고.
-1. `_layouts\default.html`에 아래 html 태그 추가.
-```html
-    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-
+- `_layouts\default.html`에 아래 html 태그 추가.
+```html    
+   <script type="text/x-mathjax-config"> MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 ```
-
+- 참고: https://blog.studia.blue/web/jekyll-mathjax/
 
