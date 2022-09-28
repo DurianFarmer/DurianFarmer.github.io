@@ -7,9 +7,8 @@ sidebar_sort_order: 1
 ---
 
 ***사람은 무엇으로 사는가?***  
-$$
-e^{i} + 1 = 0
-$$
+
+$$ e^{i} + 1 = 0 $$
 
  ## Static Page (not Post) 만드는 법
  * `./`에 `page이름.md`으로 페이지를 만든다.
@@ -26,6 +25,10 @@ sidebar_sort_order: 1 # 사이드바 배치 순서
  ```
 
 ## 수식 넣는 법
-1. `includes\mathjax_support.html`을 추가한다.
-1. ㄹㅈㄹ
+1. [링크](https://h-dyeon.github.io/dev/2019/12/10/jekyll-mathjax/) 참고.
+1. `_layouts\default.html`에 아래 html 태그 추가.
+    ```html
+    <script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.5.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    ```
+
 
