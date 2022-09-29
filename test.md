@@ -46,7 +46,7 @@ sidebar_sort_order: 1 # 사이드바 title 배치 순서
 ```
 - **첫번째 script**
   - in-line 수식을 `$ 수식 $` 식으로 쓸 수 있게 해줌.
-  - else, `\\( 수식 \\)` 같은 형태로 써야함). 
+  - else, `\\( 수식 \\)` 같은 형태로 써야함. 
   - \$는 달러 기호로 다른 많은 곳에 쓰이므로, front-matter에 `use_math: true`를 설정한 문서만 `$ 수식 $` 표현 가능하도록 함.
   - front-matter에 `use_math: true`를 설정한 문서에서 \$ 기호를 쓰고 싶은 경우: `\$`로 타이핑.
 - **두번째 script:** Jekyll과 MathJax v3를 연동하여 LaTex 수식 쓸 수 있게 해줌
