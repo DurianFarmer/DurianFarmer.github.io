@@ -34,6 +34,6 @@ sidebar_sort_order: 1 # 사이드바 title 배치 순서
 - 참고: [https://blog.studia.blue/web/jekyll-mathjax/](https://blog.studia.blue/web/jekyll-mathjax/)
 - 수식이 잘 써지는지 테스트: \\( F=ma \\), $V = IR$
 - in-line 수식은 $ 대신 `\\( 수식 \\)` 꼴로 써야 함. $가 너무 흔히 쓰이는 표현이기 때문임.
-- block 수식은 $ 두 개 쓰는 통상 노테이션 이용하면 됨.
+- display 수식은 $ 두 개 쓰는 통상 노테이션 이용하면 됨.
 
 
