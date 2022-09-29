@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <!-- 220928 마크다운에 수식 쓸 수 있도록 하기 -->  
-  <!-- Latex 수식을 쓸 수 있게 해줌 -->
+  <!-- front matter에 use_math = true를 포함하는 page/post는 LaTex 수식을 쓸 수 있게 해줌 -->
   {% if page.use_math %}    
     <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
   {% endif %}
