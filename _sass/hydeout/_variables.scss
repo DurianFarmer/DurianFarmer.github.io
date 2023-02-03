@@ -5,16 +5,31 @@ $gray-4: #767676 !default;
 $gray-5: #515151 !default;
 $gray-6: #313131 !default;
 
-$red: #ac4142 !default;
-$orange: #d28445 !default;
-$yellow: #f4bf75 !default;
-$green: #90a959 !default;
-$cyan: #17becf !default;
-$blue: #268bd2 !default;
+// 230203 change to Tableau new colors, except navy.
+$red: #e15759 !default;
+$orange: #f28e2b !default;
+$yellow: #edc948 !default;
+$green: #59a14f !default;
+$cyan: #76b7b2 !default; //teal
+$blue: #4e79a7 !default;
 $navy: #003860 !default;
-$brown: #8f5536 !default;
-$purple: #9467bd !default;;
-$pink: lightcoral !default;;
+$brown: #9c755f !default;
+// 220929 colors added
+$purple: #b07aa1 !default;;
+$pink: #ff9da7 !default;;
+
+// $red: #ac4142 !default;
+// $orange: #d28445 !default;
+// $yellow: #f4bf75 !default;
+// $green: #90a959 !default;
+// $cyan: #17becf !default;
+// $blue: #268bd2 !default;
+// $navy: #003860 !default;
+// $brown: #8f5536 !default;
+// // 220929 colors added
+// $purple: #9467bd !default;;
+// $pink: lightcoral !default;;
+
 
 $root-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif !default;
 $root-font-size: 1rem !default;
@@ -23,7 +38,7 @@ $root-line-height: 1.5 !default;
 $body-color: $gray-5 !default;
 $body-muted: $gray-4 !default;
 $body-bg: #fff !default;
-$link-color: $cyan !default;
+$link-color: $blue !default; 
 $heading-color: $gray-6 !default;
 
 $border-color: $gray-2 !default;
@@ -42,7 +57,7 @@ $box-shadow-opacity: 0.16 !default;
 $default-box-shadow: $box-shadow-size $box-shadow-size $box-shadow-size rgba(0, 0, 0, $box-shadow-opacity);
 
 $code-font-family: Menlo, Monaco, 'Courier New', monospace !default;
-$code-color: $pink !default;
+$code-color: $red !default;
 // $code-color: #bf616a !default;
 
 // Hyde theming

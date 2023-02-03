@@ -52,4 +52,3 @@ sidebar_sort_order: 1 # 사이드바 title 배치 순서
 - **두번째 script:** Jekyll과 MathJax v3를 연동하여 LaTex 수식 쓸 수 있게 해줌
 - 참고: [Jekyll MathJax v3 연동 및 in-line 수식 \$ 표시로](https://www.bodunhu.com/blog/posts/add-mathjax-v3-support-to-jekyll-and-hugo/)
 - 수식이 잘 써지는지 테스트: \\(F=ma\\), $V = IR$
-
