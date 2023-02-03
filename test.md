@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test Page
-permalink: /test/
+permalink: /testpage/
 use_math: true
 sidebar_link: true
 sidebar_sort_order: 1
