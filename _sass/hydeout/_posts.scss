@@ -3,9 +3,12 @@
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
-.posts-by-tag h2 {
-  text-transform: capitalize;
+.posts-by-tag{
   padding-top: 1rem;
+  
+  h2 {
+    text-transform: capitalize;
+  }
 }
 
 // Blog post or page title
