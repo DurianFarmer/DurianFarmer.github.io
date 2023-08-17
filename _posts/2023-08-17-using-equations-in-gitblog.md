@@ -8,13 +8,12 @@ tags:
   - gitblog
 ---
 
-## Great
+## What a five!
 
 $$ e^{i \pi} + 1 = 0 $$
 
 ## 수식 넣는 법
-- `_layouts\post.html`, `_layouts\page.html` 각각에 **MathJax v3**와 연동하는 html `<script>` 태그 두 개를 추가하였음.
-- ***cf. 둘의 상위인 `_layouts\default.html`에 `<script>` 태그를 넣으면 Post 생성 시 수식 적용 안 됨.
+- `_layouts\default.html`에 **MathJax v3**와 연동하는 html `<script>` 태그 두 개를 추가하였음.
 
 ```html       
   <script>
