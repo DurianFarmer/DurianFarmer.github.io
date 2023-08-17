@@ -4,7 +4,7 @@ title: Connect Github Homepage with Domain Name
 categories:  
   - gitblog
 tags:
-  - gitglog
+  - gitblog
 ---
 
 ___
