@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using Equations in Gitblog
+use_math: true
 categories:  
   - gitblog
 tags:
