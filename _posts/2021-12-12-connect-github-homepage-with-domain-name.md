@@ -2,9 +2,9 @@
 layout: post
 title: Connect Github Homepage with Domain Name
 categories:  
-  - github homepage
+  - gitblog
 tags:
-  - github homepage  
+  - gitglog
 ---
 
 ___
