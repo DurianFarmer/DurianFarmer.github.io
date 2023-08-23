@@ -7,7 +7,7 @@ tags:
   - gitblog
 ---
 
-# Static Page (not Post) 만드는 법
+## Static Page (not Post) 만드는 법
 - `./`에 `page이름.md`으로 마크다운 파일을 만든다.
 - front-matter를 다음과 같이 작성
 
