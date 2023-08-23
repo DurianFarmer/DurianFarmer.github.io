@@ -25,5 +25,3 @@ He completed his undergraduate degree in 2012 at [Seoul National University](htt
 
 
 His emails are [kwchai@snu.ac.kr](mailto:kwchai@snu.ac.kr) & [kyuwookchai@gmail.com](mailtio:kyuwookchai@gmail.com).
-
-# Research
